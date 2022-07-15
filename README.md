@@ -1,5 +1,7 @@
 # Never Gonna Give You Up
 
+![rick](https://camo.githubusercontent.com/37de227c234cc0a3bc9973ee2031e2d00c6f6781ae26c32cf42216fa76ed61c4/68747470733a2f2f632e74656e6f722e636f6d2f7968656f3147477533467741414141642f7269636b2d726f6c6c2d7269636b2d6173686c65792e676966) 
+
 We're no strangers to love
 You know the rules, and so do I
 A full commitment's what I'm thinking of
